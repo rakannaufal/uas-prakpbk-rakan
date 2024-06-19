@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "title": "judul",
+      "content": "Ini content",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "judul 2",
+      "content": "Ini content 2"
+    },
+    {
+      "id": "3",
+      "title": "judul 3",
+      "content": "Ini content 3"
+    },
+    {
+      "title": "MRakanNaufal",
+      "content": "223510222_4F\n",
+      "id": "61e9"
+    },
+    {
+      "id": "ec27",
+      "title": "Uas PBK",
+      "content": "PROJECT UAS PBK"
+    }
+  ]
+}
