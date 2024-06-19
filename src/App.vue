@@ -64,7 +64,7 @@ export default {
   margin-top: -3rem;
 }
 .container {
-  background-image: url(../../public/bg.jpg);
+  background-image: url(../public/bg.jpg);
   background-size: cover;
 }
 </style>
