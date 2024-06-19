@@ -76,7 +76,7 @@ h1 {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("./public/header-bg.png");
+  background-image: url("../../public/header-bg.png");
   background-size: cover;
   background-position: center;
   position: relative;
